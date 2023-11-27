@@ -1,5 +1,6 @@
-NST Tool – Beta Version 2.0
+NST Tool – Beta Version
 ----------------------------
+Cross verifying findings from Nesssus Pulgin Ids and Port Numbers for each Vulnerability and checks for the particular add-on for each vulnerability and finds the vulnerable IPs for each vulnerability.
 ----------------------------
 
 About:
