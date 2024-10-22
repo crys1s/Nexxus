@@ -50,6 +50,7 @@ For Kali Linux(Recommended):
 	3) chmod +x kali-nst-install.sh
 	4) ./kali-nst-install.sh
 For Ubuntu Linux:
+=========
 	01) cd NST-Tool/
 	02) cd opt/ubuntu/
 	03) chmod +x ubuntu-nst-install-1.sh
