@@ -4,7 +4,8 @@ Cross verifying findings from Nesssus Pulgin Ids and Port Numbers for each Vulne
 About:
 =======
 The main objective of this tool is to integrate the Nessus with nmap and verify the results received from Nessus. The update in this tool has integrated the detection of widely more number of Vulnerabilities. The list of Vulnerabilities updated in this version are:
-	• DNS - Zone transfer
+=========
+ 	• DNS - Zone transfer
 	• DNS - Cache Snoop
 	• DNS – Open Recursive Queries
 	• HTTP header – HSTS
@@ -25,6 +26,7 @@ The main objective of this tool is to integrate the Nessus with nmap and verify 
 	• Rdp-Enum-Encryption
 	• SNMP Sys Descr
 	• XDMCP-discover
+ =========
 Some of the functions are still need to verify on beta version like:
 	• LDAP 
 	• HTTP Vulnerable CVEs
@@ -38,7 +40,7 @@ Working:
 	• Basically, the tool extracts the Pulgin Ids and Port Numbers for each Vulnerability and checks for the particular add-on for each vulnerability and finds the vulnerable IPs for each vulnerability.
 	• Then the tool executes and shows the list of vulnerable ips for every particular vulnerability.
 	• Then for the output, the csv files containing the list of vulnerable ips for every vulnerability is listed and stored in the folder named as Assessment 1
-
+=========
 Installation:
 ==============
 For Kali Linux(Recommended):
